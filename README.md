@@ -19,7 +19,6 @@
 
 - [**frontend**](https://github.com/Tomaton11/frontend): Interfaz de usuario desarrollada con React y TypeScript.
 - [**backend_prod**](https://github.com/Tomaton11/backend_prod): API RESTful construida con Node.js y Express.js.
-- [**tarea-typescript**](https://github.com/Tomaton11/tarea-typescript): Ejercicios prácticos utilizando TypeScript.
 
 ---
 
@@ -51,7 +50,6 @@
 
 - [**frontend**](https://github.com/Tomaton11/frontend): User interface developed with React and TypeScript.
 - [**backend_prod**](https://github.com/Tomaton11/backend_prod): RESTful API built with Node.js and Express.js.
-- [**tarea-typescript**](https://github.com/Tomaton11/tarea-typescript): Practical exercises using TypeScript.
 
 ---
 
